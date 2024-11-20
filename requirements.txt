@@ -1,1 +1,15 @@
-streamlit requests beautifulsoup4 pandas openai 
+streamlit 
+requests 
+beautifulsoup4 
+pandas 
+openai 
+python-dotenv
+pydantic
+html2text
+tiktoken
+selenium
+readability-lxml
+streamlit-tags
+openpyxl
+groq
+google-generativeai
